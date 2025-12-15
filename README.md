@@ -26,6 +26,3 @@ The dataset was created using a SQL query to the BigQuery database tables. The d
 9. Tableau Public Visualization.
 10. Business Summary.
 
-### Portfolio Project - Comprehensive Sales Analytics Using BigQuery and Python
-[Explore Portfolio Project](https://colab.research.google.com/drive/1f9fdnO5RYsNye4ONQM-iZzOZdeDIYd1I#scrollTo=ss0ju80RnRmg)  
-
