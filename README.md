@@ -23,6 +23,7 @@ The dataset was created using a SQL query to the BigQuery database tables. The d
 5. Sales dynamics analysis.
 6. Data analysis using pivot tables.
 7. Statistical analysis of relationships.
+8. Statistical analysis of differences between groups.
 9. Tableau Public Visualization.
 10. Business Summary.
 
