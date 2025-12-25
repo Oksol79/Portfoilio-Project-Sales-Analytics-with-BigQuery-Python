@@ -1,4 +1,4 @@
-# Portfoilio-Project-Sales-Analytics-with-BigQuery-Python
+# Portfoilio Project Sales Analytics with BigQuery Python
 
 ## **Description:**
 
