@@ -1,4 +1,4 @@
-# Portfoilio Project - Sales Analytics with BigQuery Python
+# Portfolio Project - Sales Analytics with BigQuery Python
 
 ## **Description:**
 
