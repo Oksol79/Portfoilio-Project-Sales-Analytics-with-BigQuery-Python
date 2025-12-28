@@ -2,7 +2,7 @@
 
 ## **Description:**
 
-In this portfolio project, I conducted sales analytics for an online store using BigQuery and Python. I created a single dataset by merging the orders and sessions tables, which also included data from unregistered users. A detailed selection of join types (JOIN) helped to preserve all relevant data and ensure the completeness of the analytics, which is especially important due to the small number of registered users. The query resulted in an accurate and complete base for further analysis of sales and user behavior. The resulting dataset was used for further analysis and visualization.
+In this portfolio project, I conducted sales analytics for an online store using BigQuery and Python. I created a single dataset by merging the orders and sessions tables, including data from unregistered users. A detailed selection of join types (JOIN) helped preserve all relevant data and ensure the completeness of the analytics, which is especially important given the small number of registered users. The query yielded an accurate, complete base for further analysis of sales and user behavior. The resulting dataset was used for further analysis and visualization.
 
 ## **Tools & Environment:**
 - Google Colab.
@@ -17,7 +17,7 @@ In this portfolio project, I conducted sales analytics for an online store using
  - Scikit-posthocs for post-hoc tests for multiple comparisons.
 
 ## **Dataset:**
-The dataset was created using a SQL query to the BigQuery database tables. The dataset included the following fields: order date, session ID, continent, country, device, browser, device model name, operating system, browser language, traffic source information, traffic channel, registered user ID, whether the user confirmed their email, whether the user subscribed to the newsletter, product category, product name, price, short product description. When creating the dataset, the necessary table join types were set. The fact that there are few registered users was also taken into account, but we are interested in all orders and all sessions, even if the user has not registered on the site.
+The dataset was created using an SQL query to the BigQuery database tables. The dataset included the following fields: order date, session ID, continent, country, device, browser, device model name, operating system, browser language, traffic source information, traffic channel, registered user ID, whether the user confirmed their email, whether the user subscribed to the newsletter, product category, product name, price, and short product description. When creating the dataset, the necessary table join types were set. The fact that there are few registered users was also taken into account, but we are interested in all orders and all sessions, even if the user has not registered on the site.
 
 ## **List of tasks:**
 1. Connecting to a database.
@@ -35,7 +35,7 @@ The dataset was created using a SQL query to the BigQuery database tables. The d
 In this project, I demonstrated a wide range of skills, including effective data analysis:
 
 1. Connecting to a database using SQL query.  
-Connecting to a cloud database and creating a dataset using SQL query to extract, filter, and aggregate sales data.
+Connecting to a cloud database and creating a dataset using SQL queries to extract, filter, and aggregate sales data.
 
 2. Understanding and exploring data.  
 Interpreting and documenting the data set’s structure, variables, and data quality to ensure robust analysis.
